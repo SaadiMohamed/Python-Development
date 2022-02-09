@@ -1,6 +1,3 @@
-from cgi import print_form
-
-
 voornaam = "Mohamed"
 achternaam = "Saadi"
 sport = "Voetbal"
